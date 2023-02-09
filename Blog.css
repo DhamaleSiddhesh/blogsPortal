@@ -1,0 +1,51 @@
+.NavBar{
+    background-color: navy;
+    height: 50px;
+    padding: 15px 50px 1px 50px;
+    color: white;
+}
+.buttons{
+    margin: 10px;
+}
+.removeMargin{
+    margin: 0;
+}
+.leftAllign{
+    text-align: left;
+    /* float : left; */
+}
+.rightAllign{
+     text-align: right ; 
+    /* float: right; */
+}
+.border{
+    /* border: 2px solid black; */
+    box-shadow: 1px 1px 5px 0.5px #354052;;
+    width: 50%;
+    height: 200px;
+    margin: 25px  auto 0px;
+    border-radius: 2%;
+    padding: 10px;
+    background-color: white;
+
+    
+}
+.bodyButtons{
+    background-color: navy;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid navy;
+    margin: 10px 5px;
+}
+.bodyColor{
+    background-color: #cccccc ;
+}
+.footer{
+    bottom: 0 ;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    background-color: #c0c0c0;
+    height: 25px;
+}
